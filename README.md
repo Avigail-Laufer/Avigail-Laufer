@@ -7,8 +7,8 @@ Hi, I'm Avigail Laufer, a passionate Full Stack Developer with experience in bui
 I specialize in both frontend and backend development, and have a keen interest in creating efficient, user-friendly solutions.
 I am proficient in various technologies and frameworks, and constantly strive to expand my skills and knowledge.
 </span>
-## 🛠Languages and Tools
-### Programming Languages
+<h1> 🛠Languages and Tools</h1>
+<h1> Programming Languages<h1>
 <p align="left"> 
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
