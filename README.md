@@ -7,6 +7,12 @@ Hi, I'm Avigail Laufer, a passionate Full Stack Developer with experience in bui
 I specialize in both frontend and backend development, and have a keen interest in creating efficient, user-friendly solutions.
 I am proficient in various technologies and frameworks, and constantly strive to expand my skills and knowledge.
 </span>
+<h1>About Me</h1>
+<p>💻 Proficient in both server-side (Backend) and client-side (Frontend) development, with extensive experience in various technologies and tools.</p>
+<p>🏆 Always strive to maximize the potential of every project, prioritizing high-quality user experiences and meeting unique needs.</p>
+<p>📖 Constantly eager to learn new skills and stay updated with the latest industry trends.</p>
+<p>Strong believer in continuous improvement and personal growth, both as a developer and as a team member.</p>
+<p>Detail-oriented and responsible, ensuring a professional and focused approach to problem-solving</p>
 <h1> 🛠Languages and Tools</h1>
 <h1> Programming Languages<h1>
 <p align="left"> 
@@ -132,14 +138,6 @@ I am proficient in various technologies and frameworks, and constantly strive to
 <a href="https://jira.atlassian.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="35" height="35"/>
 </a>
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" alt="CLion" width="40" height="40"/>
-</a>
-<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
-</a>
-<a href="https://docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</a>
+
 </p>
 
