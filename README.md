@@ -148,7 +148,6 @@ I am proficient in various technologies and frameworks, and constantly strive to
 <p>- Design Patterns</p>
 <p>- Scrum/Agile methodology with JIRA</p>
 <h1>Contact Information</h1>
-<p>Email: <p align="left">
-  <a href="mailto:al3293374@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>    al3293374@gmail.com</a>
+<a href="mailto:al3293374@gmail.com">al3293374@gmail.com</a>
 </p>
 </p>
