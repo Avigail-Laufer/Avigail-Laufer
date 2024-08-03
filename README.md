@@ -38,9 +38,6 @@ I am proficient in various technologies and frameworks, and constantly strive to
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Assembly_language.png" alt="Assembly" width="40" height="40"/>
-</a>
 </p>
 
 ### Frameworks and Libraries
@@ -150,4 +147,8 @@ I am proficient in various technologies and frameworks, and constantly strive to
 <p>- Digital systems</p>
 <p>- Design Patterns</p>
 <p>- Scrum/Agile methodology with JIRA</p>
-
+<h1>Contact Information</h1>
+<p>Email: <p align="left">
+  <a href="mailto:al3293374@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>    al3293374@gmail.com</a>
+</p>
+</p>
