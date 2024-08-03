@@ -1,9 +1,9 @@
 <h1>
-
+Hi, I'm Avigail Laufer
 </h1>
 
 <span>
-Hi, I'm Avigail Laufer, a passionate Full Stack Developer with experience in building comprehensive and interactive web applications. 
+I'm a passionate Full Stack Developer with experience in building comprehensive and interactive web applications. 
 I specialize in both frontend and backend development, and have a keen interest in creating efficient, user-friendly solutions.
 I am proficient in various technologies and frameworks, and constantly strive to expand my skills and knowledge.
 </span>
@@ -11,10 +11,11 @@ I am proficient in various technologies and frameworks, and constantly strive to
 <p>💻 Proficient in both server-side and client-side development, with extensive experience in various technologies and tools.</p>
 <p>🏆 Always strive to maximize the potential of every project, prioritizing high-quality user experiences and meeting unique needs.</p>
 <p>📖 Constantly eager to learn new skills and stay updated with the latest industry trends.</p>
-<p>Strong believer in continuous improvement and personal growth, both as a developer and as a team member.</p>
-<p>Detail-oriented and responsible, ensuring a professional and focused approach to problem-solving</p>
-<h1> 🛠Languages and Tools</h1>
-<h2> Programming Languages<h2>
+<p>🏝️ Strong believer in continuous improvement and personal growth, both as a developer and as a team member.</p>
+<p>🧑‍💻 Detail-oriented and responsible, ensuring a professional and focused approach to problem-solving</p>
+<h1> Languages and Tools</h1>
+
+### Programming Languages
 <p align="left"> 
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
